@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://www.myvi.tv/stream/Y2x7pipsp0OadQOFvnkzBg2/2.mp4?s=-O3edfTkUlBu79H_OMiKhIYchCuz_12T4DeEPgX1YBu1gxxRyrxdKVKcIQ9-lVHNQrv3nyVfqDih5BltPP4sqw2&r=jSJKEplZFKkr8BB6Td_d-fux4RTwM_d0PWvQ9idM992YkMNvpp0Ej3Tyv5u7KeUD0&d=1420133&ri=5QCH2Gd0LkaN9x4kp0ryow2",
+            "https://m117.syncusercontent.com/mfs-60:3fd9d9197f396492c7418977238535a6=============================/p/Black%20Summoner%208.mp4?allowdd=0&datakey=BC1oQOjJCx7tK30ERSJjpW37p5mprSwBMwRFWAxDXuxTFajnEZPase3da1tDuhAuPklAelalTRroPyHQBiaNihsRQ/3GLQcrcaL8DzHgva7vGNYxnewjt5U3AiZkKChKvYSD/FhAbqib+M8hVWTl2kGuxDlRjvh2LrUcPPn9KdMdomyf/fJoHQYXEQUpR6VR0z70C1cPFVU5Am8MdaW6irPJCub9bNZYDipAeUAyA/Xf+hzFtK1e2CLfuqcAsIerDZtfViDuoqHA/rprneoQ0Wf+tAkEjNCBIyxvJyQMDKgv+4ILCWbSOJr4TDAORl4AaApE3ABIFfhEsjYiw87PZw&engine=ln-2.3.7.3&errurl=IXpGlbatkqsktBE0K+4o/YvFriILxrsyx0qeWyd8YbNAvrMisVGfUsKhYlbyxJQm/UZmXfuGV9d7hhRpON1vVjt3Esiv7lX4XZPnFJYcmcuj+3XwJkXzPlSoPK1cx/yDuOwiXrV9ioY4IBzxobHSE35vVyIGG1OmY7gUBHji/YVsr/WkiRnMwRj9Skp2D0fqPFjD85veSV9RS24fCOAcCgbVxYw66TieOfK6FNz55D8Fi5Mex3XRzUfmTxt2jo2MTsdEVRfqUZe5T4aMLBPzSusSE/oj5G4roQdes9MrWmr1jrZ1JgPtHzCSfMd4UKBct7hNIaFNOj2GMnQdd+H0Fg==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iQmxhY2slMjBTdW1tb25lciUyMDgubXA0IjtmaWxlbmFtZSo9VVRGLTgnJ0JsYWNrJTIwU3VtbW9uZXIlMjA4Lm1wNDs&ipaddress=1458994159&linkcachekey=0096e1500&linkoid=1746840004&mode=101&sharelink_id=11804569280004&timestamp=1672577375530&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=ead5da3efe96b7d4d8831083786905d9f82be818&cachekey=60:3fd9d9197f396492c7418977238535a6=============================",
           label: "720p"
         },
         {
